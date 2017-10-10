@@ -1,2 +1,0 @@
-This file is an exercise answer.
-I am a line written for the exerc-branch.
