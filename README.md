@@ -1,27 +1,23 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poets pen, 
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a **name**.
+# Angeliki
+
+### Geography
+
+I live on earth and I like to travel
+
+### Movies
+
+Three of my favorite movies are:
  
-- This is 
-- an unordered 
-- list 
+- Big fish
+- Finding Nemo 
+- Twin Peaks
 
-1. This is 
-2. an ordered 
-3. list 
+### Food
 
-Here is `some code` in the middle of a sentence. 
+Three of my favorite dishes are:
 
-``` 
-This is 
-a block 
-of code 
-``` 
+1. Mousaka
+2. Chicken with curry and peppers 
+3. Veggie lasagna
 
-Here is how you 
-make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is a beautiful image.](https://sailingsantorini.travelotopos.com/files/sailingsantorini/resources/d84cae771c850e622b3c7d2c96fb6da2.jpg)
