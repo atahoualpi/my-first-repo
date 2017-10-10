@@ -1,4 +1,4 @@
-#Angeliki
+# Angeliki
 
 ### Geography
 
@@ -12,7 +12,7 @@ Three of my favorite movies are:
 - Finding Nemo 
 - Twin Peaks
 
-# Food
+### Food
 
 Three of my favorite dishes are:
 
